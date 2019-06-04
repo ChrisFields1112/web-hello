@@ -19,3 +19,15 @@ hey whats up
 -
 blue black
 =
+
+# Text Styling
+
+*Markdown*
+**Markdown**
+~~Markdown~~
+***Markdown***
+*~~Markdown~~*
+__Markdown__
+Markdown
+
+* # *Markdown*
